@@ -1,0 +1,164 @@
+.header{
+    background: #1877f2;
+    width: 100%;
+    height: 90px;
+}
+body{
+    margin: 0;
+    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+}
+.logo{
+    width: 50%;
+    padding-top: 27px;
+    float: left;
+}
+.login{
+    width: 50%;
+    float: left;
+}
+.logo-text{
+    color: #fff;
+    font-size: 35px;
+    font-weight: bold;
+    text-decoration: none;
+    margin-left: 170px;
+}
+.login-label{
+    color: #fff;
+    font-size: 12px;
+}
+.login-controls{
+    margin-left: 185px;
+    border-spacing: 15px 0;
+}
+.login{
+    padding-top: 18px;
+}
+.forgotten{
+    
+    color: #fff;
+    font-size: 12px;
+    text-decoration: none;
+
+}
+.sub-button{
+    background: #4267b2;
+    color: #fff;
+    height: 20px;
+    border-color: #29487d;
+    cursor: pointer;
+
+}
+.sub-button:hover{
+    background: red;
+}
+.left-section{
+    width: 50%;
+    float: left;
+    padding-left: 150px;
+    padding-top: 50px;
+}
+.right-section{
+    width: 40%;
+    float: left;
+}
+.main-body{
+    background: linear-gradient(white,#D3D8E8);
+    width: 100%;
+    height: 570px;
+}
+.image{
+    width: 530px;
+}
+.para{
+    font-weight: bold;
+    font-size: 26px;
+}
+.form-other{
+    width: 420px;
+    height: 25px;
+    border-radius: 4px;
+    margin-top: 15px;
+    border-color: #fff;
+}
+.form-head{
+    margin-top: 32px;
+    margin-bottom: -5px;
+}
+.form-name{
+    width: 200px;
+    height: 25px;
+    border-radius: 4px;
+    border-color: white;
+    margin-right: 10px;
+}
+.form-bdy{
+    color: grey;
+    margin-top: 20px;
+    margin-bottom: 5px;
+}
+.form-bdt{
+    height: 22px;
+    width: 65px;
+    border-radius: 4px;
+    border-color: gray;
+
+}
+.form-gender{
+    color: grey;
+    margin-bottom: 5px;
+}
+.form-gtext{
+   margin-right: 12px;
+   font-weight: 550;
+}
+.policy{
+    color: grey;
+    font-size: 12px;
+    margin-top: 15px;
+}
+.policy-word{
+    color: #1877f2;
+}
+.signup{
+    background:rgb(14 158 14);
+    color: white;
+    border-color: #000;
+    border-radius: 5px;
+    margin-top: 15px;
+    width: 200px;
+    height: 40px;
+    font-size: 18px;
+    font-weight: bold;
+    cursor: pointer;
+}
+.form-celebrity{
+    color: #000;
+    font-size: 12px;
+    margin-top: 30px;
+    font-weight: bold;
+}
+.form-newpage{
+
+    color: #1877f2;
+    font-size: 12px;
+    text-decoration: none;
+}
+.lower{
+    width: 100%;
+    background: white;
+    height: 40px;
+}
+.lower-lang{
+    padding-top: 15px;
+    padding-left: 120px;
+}
+.language{
+    font-size: 12px;
+    margin-right: 15px;
+    text-decoration: none;
+    color: #000;
+}
+.add-language{
+    font-weight: bold;
+}
